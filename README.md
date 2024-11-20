@@ -6,11 +6,11 @@
 
 ## Description
 
-[For interior design, the consumers may be interested in finding out what kind of product that they are seeing from different places.  
+For interior design, the consumers may be interested in finding out what kind of product that they are seeing from different places.  
 This flooring detection project is aimed to not only detect, but also predict what the consumer wants, based on the input image that the consumer provides.
 From interior design companies, we can collect room pictures that are computer-generated. These will be used as the main dataset to first, be able to find the area of the image that is considered as a flooring, using image segmentation.
 Afterwards, this dataset will be trained and tested to find out what type of flooring it is, which is the goal of this project.
-For an input, we will be using another room picture that is NOT part of the dataset, so that we can see if the prediction model works.]
+For an input, we will be using another room picture that is NOT part of the dataset, so that we can see if the prediction model works.
 
 ### Task Type
 
