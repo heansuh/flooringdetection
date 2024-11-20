@@ -6,7 +6,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 1**: [Image segmentation | TensorFlow Core]
 
-  - **[Link]([https://arxiv.org/abs/2001.05566?utm_source=chatgpt.com](https://www.tensorflow.org/tutorials/images/segmentation))**
+  - **[Link](https://www.tensorflow.org/tutorials/images/segmentation)**
   - **Objective**: It provides a practical guide for implementing image segmentation using TensorFlow, specifically a U-Net model.
   - **Methods**: This tutorial explains how to prepare datasets, construct a U-Net model, and train it for segmenting objects in images.
   - **Outcomes**: The tutorial demonstrates how to achieve efficient segmentation, offering insights into building models for similar tasks.
